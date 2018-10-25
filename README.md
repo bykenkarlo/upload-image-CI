@@ -25,7 +25,7 @@ public function upload_file() {
             'max_height' => 800,
         ));
 
-        if(!$this->upload->do_upload('ico_img')) {
+        if(!$this->upload->do_upload('image_file')) {
 	        $error = array('error' => $this->upload->display_errors());
 	        $this->load->view('location', $error);
         }
