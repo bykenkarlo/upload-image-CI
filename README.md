@@ -1,1 +1,1 @@
-# upload-image-CI
+# Upload-Image-CI
