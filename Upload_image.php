@@ -35,5 +35,4 @@ public function upload_file_process() {
         redirect('location');
     }
 }
-
 } ?>
