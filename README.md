@@ -1,2 +1,0 @@
-
-Upload Image CI
